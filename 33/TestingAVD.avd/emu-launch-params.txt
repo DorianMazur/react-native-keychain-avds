@@ -1,0 +1,15 @@
+/home/runner/work/react-native-keychain/react-native-keychain
+/usr/local/lib/android/sdk/emulator/emulator
+12
+/usr/local/lib/android/sdk/emulator/emulator
+-port
+5554
+-avd
+TestingAVD
+-no-window
+-gpu
+swiftshader_indirect
+-noaudio
+-no-boot-anim
+-camera-back
+none
